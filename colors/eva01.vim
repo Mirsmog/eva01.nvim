@@ -163,13 +163,9 @@ hi NvimTreeGitNew ctermfg=168 ctermbg=NONE cterm=bold guifg=#7ca8de guibg=NONE g
 "}}}
 
 " noice{{{
-hi NoiceCmdlineIconInput ctermfg=168 ctermbg=NONE cterm=bold guifg=#a786ff guibg=NONE gui=bold,
-hi NoiceCmdlineIconLua ctermfg=168 ctermbg=NONE cterm=bold guifg=#a786ff guibg=NONE gui=bold,
-hi NoiceCmdlinePopupBorderInput ctermfg=168 ctermbg=NONE cterm=bold guifg=#a786ff guibg=NONE gui=bold,
-hi NoiceCmdlinePopupBorderLua ctermfg=168 ctermbg=NONE cterm=bold guifg=#a786ff guibg=NONE gui=bold,
-hi NoiceCmdlinePopupTitleInput ctermfg=168 ctermbg=NONE cterm=bold guifg=#a786ff guibg=NONE gui=bold,
-hi NoiceCmdlinePopupTitleLua ctermfg=168 ctermbg=NONE cterm=bold guifg=#a786ff guibg=NONE gui=bold,
-hi NoiceCompletionItemKindDefault ctermfg=168 ctermbg=NONE cterm=bold guifg=#a786ff guibg=NONE gui=bold,
+hi NoiceCmdlinePopupBorder ctermfg=168 ctermbg=NONE cterm=bold guifg=#a786ff guibg=NONE gui=bold,
+hi NoiceCmdlinePopupBorderLua ctermfg=168 ctermbg=NONE cterm=bold guifg=#7ca8de guibg=NONE gui=bold,
+hi NoiceCmdlinePopupBorderFilter ctermfg=168 ctermbg=NONE cterm=bold guifg=#db6088 guibg=NONE gui=bold,
 "}}}
 
 " telescope{{{
