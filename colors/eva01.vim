@@ -153,9 +153,8 @@ hi GitGutterDelete ctermfg=168 ctermbg=NONE cterm=bold guifg=#db6088 guibg=NONE 
 hi CocHintSign ctermfg=60 guifg=#6d7ba6
 "}}}
 
-" coc{{{
-hi CocHintSign ctermfg=60 guifg=#6d7ba6
-hi NvimTreeFolderIcon ctermfg=168 ctermbg=NONE cterm=bold guifg=#db6088 guibg=NONE gui=bold,
+" nvim-tree{{{
+hi NvimTreeFolderIcon ctermfg=168 ctermbg=NONE cterm=bold guifg=#3f6d4e guibg=NONE gui=bold,
 "}}}
 
 " vim-lsp{{{
