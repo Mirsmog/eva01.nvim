@@ -147,9 +147,17 @@ hi GitGutterAdd ctermfg=156 ctermbg=NONE cterm=bold guifg=#9cda7c guibg=NONE gui
 hi GitGutterChange ctermfg=208 ctermbg=NONE cterm=bold guifg=#d99145 guibg=NONE gui=bold
 hi GitGutterDelete ctermfg=168 ctermbg=NONE cterm=bold guifg=#db6088 guibg=NONE gui=bold
 "}}}
+
+
 " coc{{{
 hi CocHintSign ctermfg=60 guifg=#6d7ba6
 "}}}
+
+" coc{{{
+hi CocHintSign ctermfg=60 guifg=#6d7ba6
+hi NvimTreeFolderIcon ctermfg=168 ctermbg=NONE cterm=bold guifg=#db6088 guibg=NONE gui=bold,
+"}}}
+
 " vim-lsp{{{
 hi LspErrorText ctermfg=168 ctermbg=NONE cterm=NONE guifg=#db6088 guibg=#2b1211 gui=NONE
 hi LspErrorHighlight cterm=undercurl gui=undercurl guisp=#db6088
@@ -161,6 +169,7 @@ hi LspInformationText ctermfg=24 ctermbg=NONE cterm=NONE guifg=#6cdde6 guibg=#16
 hi LspInformationHighlight cterm=undercurl gui=undercurl guisp=#6cdde6
 hi LspInformationVirtualText ctermfg=24 ctermbg=NONE cterm=NONE guifg=#6cdde6 guibg=#162c2e gui=NONE
 "}}}
+
 
 if has('nvim-0.8')
   lua package.loaded["eva01"] = nil
