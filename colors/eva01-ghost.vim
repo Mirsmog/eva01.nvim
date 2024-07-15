@@ -38,8 +38,8 @@ hi MatchParen ctermfg=15 ctermbg=240 cterm=bold guifg=#FFFFFF guibg=#585858 gui=
 hi ModeMsg ctermfg=119 ctermbg=NONE cterm=bold guifg=#87FF5F guibg=NONE gui=bold
 hi MoreMsg ctermfg=119 ctermbg=NONE cterm=bold guifg=#87FF5F guibg=NONE gui=bold
 hi NonText ctermfg=234 ctermbg=NONE cterm=NONE guifg=#6e4c28 guibg=NONE gui=NONE
-hi Normal ctermfg=252 ctermbg=NONE cterm=NONE guifg=#bec7d1 guibg=#1d1a2f gui=NONE
-hi NormalFloat ctermfg=252 ctermbg=16 cterm=NONE guifg=#bec7d1 guibg=#1d1a2f gui=NONE
+hi Normal ctermfg=252 ctermbg=NONE cterm=NONE guifg=#bec7d1 guibg=NONE gui=NONE
+hi NormalFloat ctermfg=252 ctermbg=16 cterm=NONE guifg=#bec7d1 guibg=NONE gui=NONE
 hi FloatBorder ctermfg=156 ctermbg=NONE cterm=NONE guifg=#9cda7c guibg=NONE gui=NONE
 hi FloatTitle ctermfg=156 ctermbg=NONE cterm=NONE guifg=#9cda7c guibg=NONE gui=NONE
 hi Pmenu ctermfg=119 ctermbg=16 cterm=NONE guifg=#87FF5F guibg=#1b3313 gui=NONE
@@ -53,8 +53,8 @@ hi SpellBad ctermfg=168 ctermbg=NONE cterm=undercurl guifg=NONE guibg=NONE guisp
 hi SpellCap ctermfg=168 ctermbg=NONE cterm=underline guifg=#db6088 guibg=NONE gui=underline
 hi SpellLocal ctermfg=168 ctermbg=NONE cterm=underline guifg=#db6088 guibg=NONE gui=underline
 hi SpellRare ctermfg=168 ctermbg=NONE cterm=underline guifg=#db6088 guibg=NONE gui=underline
-hi StatusLine ctermfg=99 ctermbg=16 cterm=NONE guifg=#a786ff guibg=#1d1a2f gui=NONE
-hi StatusLineNC ctermfg=240 ctermbg=16 cterm=NONE guifg=#535177 guibg=#1d1a2f gui=NONE
+hi StatusLine ctermfg=99 ctermbg=16 cterm=NONE guifg=#a786ff guibg=NONE gui=NONE
+hi StatusLineNC ctermfg=240 ctermbg=16 cterm=NONE guifg=#535177 guibg=NONE gui=NONE
 hi TabLine ctermfg=102 ctermbg=16 cterm=NONE guifg=#8784ad guibg=#18181f gui=NONE
 hi TabLineFill ctermfg=102 ctermbg=16 cterm=NONE guifg=#8784ad guibg=NONE gui=NONE
 hi TabLineSel ctermfg=99 ctermbg=NONE cterm=NONE guifg=#a786ff guibg=#18181f gui=NONE
