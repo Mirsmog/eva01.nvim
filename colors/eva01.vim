@@ -164,7 +164,10 @@ hi NvimTreeGitNew ctermfg=168 ctermbg=NONE cterm=bold guifg=#7ca8de guibg=NONE g
 
 " noice{{{
 hi NoiceCmdlineIcon ctermfg=168 ctermbg=NONE cterm=bold guifg=#87ff5f guibg=NONE gui=bold,
+hi NoiceCmdlineIconLua ctermfg=168 ctermbg=NONE cterm=bold guifg=#7ca8de guibg=NONE gui=bold,
+hi NoiceCmdlineFilterLua ctermfg=168 ctermbg=NONE cterm=bold guifg=#db6088 guibg=NONE gui=bold,
 hi NoiceCmdlinePopupBorder ctermfg=168 ctermbg=NONE cterm=bold guifg=#a786ff guibg=NONE gui=bold,
+hi NoiceCmdlinePopupBorderLua ctermfg=168 ctermbg=NONE cterm=bold guifg=#7ca8de guibg=NONE gui=bold,
 hi NoiceCmdlinePopupBorderLua ctermfg=168 ctermbg=NONE cterm=bold guifg=#7ca8de guibg=NONE gui=bold,
 hi NoiceCmdlinePopupBorderFilter ctermfg=168 ctermbg=NONE cterm=bold guifg=#db6088 guibg=NONE gui=bold,
 "}}}
