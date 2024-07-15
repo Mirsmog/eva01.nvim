@@ -170,7 +170,7 @@ hi NoiceCmdlinePopupBorderLua ctermfg=168 ctermbg=NONE cterm=bold guifg=#a786ff 
 hi NoiceCmdlinePopupTitleInput ctermfg=168 ctermbg=NONE cterm=bold guifg=#a786ff guibg=NONE gui=bold,
 hi NoiceCmdlinePopupTitleLua ctermfg=168 ctermbg=NONE cterm=bold guifg=#a786ff guibg=NONE gui=bold,
 hi NoiceCompletionItemKindDefault ctermfg=168 ctermbg=NONE cterm=bold guifg=#a786ff guibg=NONE gui=bold,
-" }}}
+"}}}
 
 " vim-lsp{{{
 hi LspErrorText ctermfg=168 ctermbg=NONE cterm=NONE guifg=#db6088 guibg=#2b1211 gui=NONE
