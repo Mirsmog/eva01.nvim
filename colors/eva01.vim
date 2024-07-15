@@ -154,7 +154,7 @@ hi CocHintSign ctermfg=60 guifg=#6d7ba6
 "}}}
 
 " nvim-tree{{{
-hi NvimTreeFolderIcon ctermfg=168 ctermbg=NONE cterm=bold guifg=#3f6d4e guibg=NONE gui=bold,
+hi NvimTreeFolderIcon ctermfg=168 ctermbg=NONE cterm=bold guifg=#7ca8de guibg=NONE gui=bold,
 "}}}
 
 " vim-lsp{{{
