@@ -173,8 +173,8 @@ hi NoiceCompletionItemKindDefault ctermfg=168 ctermbg=NONE cterm=bold guifg=#a78
 "}}}
 
 " telescope{{{
-hi TelescopeBorder ctermfg=168 ctermbg=NONE cterm=bold guifg=#875faf guibg=NONE gui=bold,
-hi TelescopePromptBorder ctermfg=168 ctermbg=NONE cterm=bold guifg=#875faf guibg=NONE gui=bold,
+hi TelescopeBorder ctermfg=168 ctermbg=NONE cterm=bold guifg=#9cda7c guibg=NONE gui=bold,
+hi TelescopePromptBorder ctermfg=168 ctermbg=NONE cterm=bold guifg=#9cda7c guibg=NONE gui=bold,
 "}}}
 
 " vim-lsp{{{
