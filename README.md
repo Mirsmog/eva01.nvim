@@ -38,3 +38,7 @@ colorscheme eva01
 
 ##### eva01-LCL
 ![screenshot_2](https://hachy.github.io/eva01.vim/assets/images/screenshot_lcl_1.png)
+
+##### eva01-ghost
+![image](https://github.com/user-attachments/assets/4a05ef99-79fb-476e-ae67-6799d4f0d08b)
+
