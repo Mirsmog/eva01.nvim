@@ -172,6 +172,12 @@ hi NoiceCmdlinePopupTitleLua ctermfg=168 ctermbg=NONE cterm=bold guifg=#a786ff g
 hi NoiceCompletionItemKindDefault ctermfg=168 ctermbg=NONE cterm=bold guifg=#a786ff guibg=NONE gui=bold,
 "}}}
 
+" telescope{{{
+hi TelescopeBorder ctermfg=168 ctermbg=NONE cterm=bold guifg=#a786ff guibg=NONE gui=bold,
+hi TelescopeNormal ctermfg=168 ctermbg=NONE cterm=bold guifg=#a786ff guibg=NONE gui=bold,
+hi TelescopePromptBorder ctermfg=168 ctermbg=NONE cterm=bold guifg=#a786ff guibg=NONE gui=bold,
+"}}}
+
 " vim-lsp{{{
 hi LspErrorText ctermfg=168 ctermbg=NONE cterm=NONE guifg=#db6088 guibg=#2b1211 gui=NONE
 hi LspErrorHighlight cterm=undercurl gui=undercurl guisp=#db6088
