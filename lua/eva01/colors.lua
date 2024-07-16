@@ -17,7 +17,7 @@ M.default = {
   lilac = "#cfa1ed",
   silver = "#bec7d1",
   indigo = "#4e4c78",
-  black = "#0f1419",
+  dark = "#0f1419",
 }
 
 ---@return ColorScheme
