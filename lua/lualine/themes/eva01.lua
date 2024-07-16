@@ -1,4 +1,4 @@
-local colors = require("eva01.colors")
+local colors = require("eva01.colors").setup({})
 
 local eva01 = {}
 
