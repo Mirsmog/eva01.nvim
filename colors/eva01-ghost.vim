@@ -18,8 +18,8 @@ hi Conceal ctermfg=119 ctermbg=NONE cterm=NONE guifg=#87FF5F guibg=NONE gui=NONE
 hi CurSearch ctermfg=16 ctermbg=222 cterm=bold guifg=#000000 guibg=#e6bb85 gui=bold
 hi Cursor ctermfg=16 ctermbg=119 cterm=NONE guifg=#000000 guibg=#87FF5F gui=NONE
 hi CursorIM ctermfg=NONE ctermbg=168 cterm=NONE guifg=NONE guibg=#db6088 gui=NONE
-hi CursorColumn ctermfg=NONE ctermbg=235 cterm=NONE guifg=NONE guibg=#262626 gui=NONE
-hi CursorLine ctermfg=NONE ctermbg=235 cterm=NONE guifg=NONE guibg=#262626 gui=NONE
+hi CursorColumn ctermfg=NONE ctermbg=235 cterm=NONE guifg=NONE guibg=#1d1a2f gui=NONE
+hi CursorLine ctermfg=NONE ctermbg=235 cterm=NONE guifg=NONE guibg=#1d1a2f gui=NONE
 hi Directory ctermfg=156 ctermbg=NONE cterm=NONE guifg=#9cda7c guibg=NONE gui=NONE
 hi DiffAdd ctermfg=16 ctermbg=156 cterm=NONE guifg=#000000 guibg=#9cda7c gui=NONE
 hi DiffChange ctermfg=16 ctermbg=175 cterm=NONE guifg=#000000 guibg=#D787AF gui=NONE
